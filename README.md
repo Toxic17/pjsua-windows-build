@@ -7,7 +7,7 @@
 Перейди в раздел [Releases] и скачай файл:
 `pjsua-windows-x64.exe`
 
-## [Документация] (https://docs.pjsip.org/en/latest/)
+## [Документация](https://docs.pjsip.org/en/latest/)
 
 ## Как запустить
 
